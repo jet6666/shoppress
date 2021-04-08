@@ -70,11 +70,12 @@ class block_header999 {
          <?php echo $CORE->LAYOUT("get_logo","light");  ?>
          <?php echo $CORE->LAYOUT("get_logo","dark");  ?>
          </a>
+
          
          
           <?php 
 		  
-		  $settings['btn-class'] = "btn-dark";
+		  $settings['btn-class'] = "btn-secondary";//dark";
 		  _ppt_template( 'framework/design/header/parts/header-search-1' ); ?> 
          
          
