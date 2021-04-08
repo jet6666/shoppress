@@ -77,12 +77,12 @@ $core['design']['slot7_style'] = "text16";
 */
 
 $core['design']['slot6_style'] = "listings7";
-$core['design']['slot7_style'] = "subscribe2";
+$core['design']['slot7_style'] = "";//"subscribe2";
 $core['design']['footer_style'] = "footer1";
 $core['design']['slot8_style'] = '';
 $core['design']['slot9_style'] = '';
 $core['design']['slot10_style'] = '';
-$core['design']['color_primary'] = "#0053B7";
+$core['design']['color_primary'] = "#a2c535";//Ö÷É«µ÷
 $core['design']['color_secondary'] = "#D2D2D2";
  
  
